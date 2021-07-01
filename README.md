@@ -1,0 +1,1 @@
+The snippet of code outputs my up to date CV
