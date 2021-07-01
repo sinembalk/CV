@@ -1,3 +1,3 @@
 # CV
 
-This snippet of code outputs my up to date CV
+This snippet of code in cv_code.py outputs my up to date CV (sbalkuvar_cv.pdf)
